@@ -38,4 +38,4 @@ Sou estudante do **4º semestre de Ciência de Dados** (conclusão em 01/2027), 
 
 ## 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-lima-489b10290/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)(https://dev.to/larissajelima)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/larissajelima)
