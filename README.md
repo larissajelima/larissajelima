@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=https://github.com/larissajelima/larissajelima/blob/main/banner%20github.png alt="Data Science & Food Service Architecture Banner" width="100%">
+</div>
+
 # Olá, eu sou a Larissa Lima! 👋
 
 ### 👩‍🔬 Cientista de Dados em Formação | 🍳 Especialista em Gastronomia
