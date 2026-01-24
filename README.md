@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=Gemini_Generated_Image_m606umm606umm606.png alt="Data Science & Food Service Architecture Banner" width="100%">
+  <img src=header_git.png alt="Data Science & Food Service Architecture Banner" width="100%">
 </div>
 
 # Olá, eu sou a Larissa Lima! 👋
