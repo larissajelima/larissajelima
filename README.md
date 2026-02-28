@@ -1,45 +1,104 @@
-<div align="center">
-  <img src=header_git.PNG alt="Data Science & Food Service Architecture Banner" width="100%">
-</div>
+👩🏻‍💻 Larissa Lima
 
-# Olá, eu sou a Larissa Lima! 👋
+Estudante de Ciência de Dados | Foco em Analista de Dados / BI | Buscando Estágio ou Júnior
 
-### 👩‍🔬 Cientista de Dados em Formação | 🍳 Especialista em Gastronomia
+📍 Indaiatuba - SP
+🎓 Ciência de Dados (Conclusão prevista: 01/2027)
+📊 Interesse em Data Analytics, BI e análise orientada a negócios
 
-Sou estudante do **4º semestre de Ciência de Dados** (conclusão em 01/2027), realizando uma transição de carreira estratégica. Utilizo minha bagagem de mais de 7 anos na área de Gastronomia para resolver problemas complexos de negócio através de dados, focando em **Supply Chain, Otimização de Processos e Inteligência de Mercado B2B**.
+🚀 Sobre mim
 
----
+Estou em transição para a área de Dados, atualmente no 4º semestre de Ciência de Dados, buscando minha primeira oportunidade como Estagiária ou Analista de Dados Júnior.
 
-## 🛠️ Stack Tecnológica & Competências
-* **Linguagens:** Python (Foco em análise e automação), SQL (Modelagem e manipulação).
-* **Dados:** Engenharia de Dados, Análise Exploratória (EDA), Machine Learning e NLP.
-* **Domínio de Negócio:** Gestão de CMV, Inventário e Logística de Alimentos.
+Tenho mais de 7 anos de experiência anterior em Gastronomia, onde desenvolvi:
 
----
+Tomada de decisão sob pressão
 
-## 📚 Jornada do Portfólio (Evolução Acadêmica)
-*Este repositório é organizado de forma a refletir meu crescimento técnico conforme a grade curricular da Anhanguera:*
+Organização e padronização de processos
 
-### 📂 [Revisão] Semestre 1 & 2: Fundamentos e Estrutura
-- **Projeto:** *Arquitetura de Dados para Food Service* - Modelagem Relacional (DER) e implementação SQL para rastreabilidade de insumos.
-  - Análise de Sentimento (NLP) em reviews de clientes para melhoria de cardápio.
+Controle de qualidade e redução de desperdícios
 
-### 📂 [Revisão] Semestre 3: Inteligência e Engenharia
-- **Projeto:** *Previsão de Demanda e Redução de Desperdício*
-  - Pipeline de Engenharia de Dados e modelos iniciais de Machine Learning (Regressão).
+Análise prática de indicadores operacionais
 
-### 🚀 Semestre 4: Avançado (Em progresso)
-- **Foco Atual:** Data Mining, Machine Learning II e Redes Neurais.
-- **Projeto:** *Detecção de Anomalias em Custos Operacionais Industriais.*
+Hoje aplico essa visão orientada a resultados na área de Dados, com foco em transformar informações em insights que apoiem decisões estratégicas.
 
----
+🛠️ Tecnologias & Ferramentas
+📌 Linguagens
 
-## 📈 Estatísticas de Carreira
-- 🎓 **Educação:** Tecnólogo em Ciência de Dados (Anhanguera) e Formação em Gastronomia.
-- 🎯 **Objetivo:** Atuar como Analista/Cientista de Dados em empresas que buscam eficiência operacional e inteligência de mercado.
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
----
+SQL (consultas, joins, agregações, modelagem relacional)
 
-## 📫 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissajesuslima/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/larissajelima)
+📊 Análise & BI
+
+Power BI (criação de dashboards e relatórios)
+
+Excel Avançado
+
+Análise Exploratória de Dados (EDA)
+
+Limpeza e transformação de dados
+
+🧱 Fundamentos
+
+Modelagem de Dados (DER, normalização)
+
+Criação de índices e views
+
+KPI’s (Churn, NPS, métricas operacionais)
+
+Storytelling com dados
+
+📂 Projetos em Destaque
+📊 Análise de Dados de Vendas
+
+Limpeza e transformação de base de dados
+
+Identificação de padrões de consumo
+
+Construção de métricas de desempenho
+
+Visualizações para apoio à tomada de decisão
+
+🗃️ Modelagem de Banco de Dados
+
+Estruturação de modelo relacional
+
+Criação de consultas SQL otimizadas
+
+Uso de índices e views para melhoria de performance
+
+📈 Análise de Indicadores (KPI)
+
+Investigação de churn e retenção
+
+Avaliação de impacto de mudanças estratégicas
+
+Análise de satisfação (NPS e reclamações)
+
+(Todos os projetos estão documentados nos repositórios com objetivo, ferramentas utilizadas e aprendizados.)
+
+🎯 Objetivo Profissional
+
+Busco oportunidade como:
+
+📌 Estágio em Dados
+
+📌 Analista de Dados Júnior
+
+📌 BI Analyst Júnior
+
+Quero atuar em ambientes orientados a dados, contribuir com análises estruturadas e evoluir tecnicamente em modelagem, SQL e visualização.
+
+📬 Contato
+
+🔗 LinkedIn: (coloque aqui seu link)
+📧 Email: (seu email profissional)
+
+📌 Atualmente estudando
+
+Otimização de consultas SQL
+
+Estruturação de pipelines de dados
+
+Boas práticas de modelagem para BI
