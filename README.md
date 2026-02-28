@@ -2,7 +2,7 @@
 
 Estudante de Ciência de Dados | Foco em Analista de Dados / BI | Buscando Estágio ou Júnior
 
-📍 Indaiatuba - SP
+📍 Itupeva - SP
 🎓 Ciência de Dados (Conclusão prevista: 01/2027)
 📊 Interesse em Data Analytics, BI e análise orientada a negócios
 
