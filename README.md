@@ -1,105 +1,54 @@
-# 👩🏻‍💻 Larissa Lima
+# Larissa Lima
 
-**Estudante de Ciência de Dados | Foco em Análise de Dados e Business Intelligence**
-📍 Itupeva - SP
-🎓 Conclusão prevista: 07/2027
+Estudante de Ciência de Dados | Foco em Análise de Dados e Business Intelligence  
+Em transição de carreira para a área de Dados, com experiência prévia em operação, indicadores e melhoria de processos.  
+Busco oportunidade como Estagiária ou Analista de Dados Júnior.
 
----
+## Sobre mim
+Atualmente curso Ciência de Dados, com conclusão prevista para 2027.  
+Tenho experiência anterior em ambiente operacional, o que fortaleceu minha visão de negócio, análise de desempenho, acompanhamento de metas e identificação de gargalos.
 
-## 🎯 Objetivo
+Hoje direciono essa base para a área de Dados, com foco em transformar informações em análises claras e úteis para tomada de decisão.
 
-Busco oportunidade como **Estagiária ou Analista de Dados Júnior**, com foco em:
+## Tecnologias
+- **SQL:** SELECT, JOIN, GROUP BY, CTEs, window functions, views e índices
+- **Python:** Pandas, NumPy, Matplotlib
+- **Power BI:** modelagem, visualizações e dashboards
+- **Excel:** análise e apoio à exploração de dados
+- **Banco de Dados:** modelagem relacional e estruturação de tabelas
 
-* Análise exploratória de dados
-* Construção e acompanhamento de KPIs
-* Modelagem de dados para BI
-* Desenvolvimento de dashboards e relatórios estratégicos
+## Áreas de interesse
+- Análise exploratória de dados
+- Construção e acompanhamento de KPIs
+- Retenção e comportamento de clientes
+- Dashboards e relatórios gerenciais
+- Modelagem de dados para BI
 
-Quero atuar transformando dados em informações claras que apoiem decisões de negócio.
+## Projetos em destaque
 
----
+### 1. Customer Retention Cohort Analysis
+Projeto de análise de retenção de clientes com SQL e Power BI, incluindo:
+- novos vs recorrentes
+- retenção mensal
+- churn mensal
+- cohort de retenção
+- dashboard com insights estratégicos
 
-## 🧠 Sobre mim
+### 2. Ecommerce Sales Analysis
+Projeto de análise de vendas com SQL, focado em:
+- faturamento diário e acumulado
+- ticket médio
+- top clientes
+- recompra
+- análise por cidade
 
-Estou em transição para a área de Dados, atualmente no 4º semestre de Ciência de Dados. Tenho mais de 7 anos de experiência anterior em Gastronomia, onde desenvolvi forte visão operacional e analítica voltada para resultados.
+## Diferenciais
+- Mentalidade orientada a negócio
+- Organização e documentação clara
+- Facilidade para conectar operação com análise
+- Evolução técnica contínua
 
-Ao longo da minha trajetória profissional aprendi a:
-
-* Trabalhar com metas e indicadores
-* Identificar gargalos operacionais
-* Padronizar processos
-* Tomar decisões baseadas em dados práticos do dia a dia
-
-Hoje aplico essa mentalidade na área de Dados, buscando sempre entender o **problema de negócio antes da ferramenta**.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Linguagens
-
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* SQL (SELECT, JOIN, GROUP BY, subqueries, criação de views e índices)
-
-### Análise & BI
-
-* Power BI (modelagem e dashboards)
-* Excel Avançado
-* Análise Exploratória de Dados (EDA)
-* Limpeza e transformação de dados
-
-### Fundamentos Técnicos
-
-* Modelagem Relacional (DER e normalização)
-* Estruturação de banco de dados
-* Definição e análise de KPIs (Churn, NPS, métricas operacionais)
-* Storytelling com dados
-
----
-
-## 📊 Projetos em Destaque
-
-### 📌 Análise de Dados de Vendas
-
-* Limpeza e estruturação da base de dados
-* Identificação de padrões de consumo e sazonalidade
-* Criação de métricas de desempenho
-* Visualizações para apoio à tomada de decisão
-
-### 📌 Modelagem de Banco de Dados
-
-* Construção de modelo relacional
-* Aplicação de normalização
-* Criação de consultas SQL otimizadas
-* Uso de índices e views para melhoria de performance
-
-### 📌 Análise de Indicadores e Retenção
-
-* Investigação de churn
-* Avaliação de impacto de mudanças estratégicas
-* Análise de satisfação (NPS e volume de reclamações)
-
----
-
-## 📈 Diferenciais
-
-* Mentalidade orientada a negócio
-* Organização e documentação clara dos projetos
-* Foco em resolver problemas reais
-* Aprendizado contínuo e evolução técnica constante
-
----
-
-## 📚 Atualmente estudando
-
-* Otimização de consultas SQL
-* Estruturação de pipelines de dados
-* Boas práticas de modelagem para BI
-* Análise de métricas de retenção e crescimento
-
----
-
-## 📬 Contato
-
-🔗 LinkedIn: linkedin.com/in/larissajesuslima/
-📧 Email: larissajelima@gmail.com
+## Contato
+- LinkedIn: linkedin.com/in/larissajesuslima
+- GitHub: github.com/larissajelima
+- Email: larissajelima@gmail.com
